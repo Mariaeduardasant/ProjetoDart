@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Documents/Maria Eduarda 2B/PERFIL"
+		},
+		{
+			"path": "../../Aprendendo CSS"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Aprendendo CSS"
+	}
+}
